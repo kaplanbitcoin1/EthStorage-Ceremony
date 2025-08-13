@@ -122,7 +122,7 @@ Katkı sırasında bağlantınız koparsa aynı komutu tekrar çalıştırabilir
 
 İşlemler tamamlandığında size özel bir kanıt (proof) verilecek, bunu kesinlikle saklamanızı öneriyorum
 
-* Son olarak proje şöyle bir not bırakmış: `"Katkınızı tamamladıktan sonra, Twitter/X veya tercih ettiğiniz sosyal medya platformunda bir mesaj paylaşmaya davet edileceksiniz. Desteğiniz için teşekkür ederiz!" 🎉`
+* Son olarak proje şöyle bir yazı paylaşmış: `"Katkınızı tamamladıktan sonra, Twitter/X veya tercih ettiğiniz sosyal medya platformunda bir mesaj paylaşmaya davet edileceksiniz. Desteğiniz için teşekkür ederiz!" 🎉`
 
 * Repoya bir yıldız bırakırsanız sevinirim 🐅
 
