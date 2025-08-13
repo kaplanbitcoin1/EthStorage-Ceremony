@@ -124,7 +124,7 @@ Katkı sırasında bağlantınız koparsa aynı komutu tekrar çalıştırabilir
 
 * Son olarak proje şöyle bir yazı paylaşmış: `"Katkınızı tamamladıktan sonra, Twitter/X veya tercih ettiğiniz sosyal medya platformunda bir mesaj paylaşmaya davet edileceksiniz. Desteğiniz için teşekkür ederiz!" 🎉`
 
-# Ufak bir bilgi: Union Ceremony'de buna benzer bir tweet paylaşmıştık. Bu sayede birçok kişi Kaito Sezon-0'da kendine yer bulmuş görünüyor.
+### Ufak bir bilgi: Union Ceremony'de buna benzer bir tweet paylaşmıştık. Bu sayede birçok kişi Kaito Sezon-0'da kendine yer bulmuş görünüyor.
 
 * Repoya bir yıldız bırakırsanız sevinirim 🐅
 
