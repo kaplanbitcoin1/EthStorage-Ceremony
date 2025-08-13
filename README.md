@@ -108,6 +108,14 @@ phase2cli contribute -c ethstorage-v1-trusted-setup-ceremony
 
 
 
+* İşlemler bittikten sonra Github izinlerini kaldırıp çıkış yapmak için 
+
+
+```shell
+phase2cli clean
+phase2cli logout
+```
+
 ### Notlar
 
 Katkı sırasında bağlantınız koparsa aynı komutu tekrar çalıştırabilirsiniz
