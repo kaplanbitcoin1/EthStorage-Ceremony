@@ -85,7 +85,7 @@ cd ~/trusted-setup-tmp
 * Öncelikle Screen Açalım
 
 ```shell
-screen -S ethstoragecerenomy
+screen -S ethstorageceremony
 ```
 
 * Ve son hamle
