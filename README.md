@@ -51,6 +51,10 @@ nvm install 18
 nvm use 18
 ```
 
+```shell
+source ~/.bashrc
+```
+
 ### Phase2 CLI yükleme
 
 ```shell
